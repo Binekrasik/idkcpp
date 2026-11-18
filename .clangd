@@ -1,0 +1,2 @@
+CompileFlags:
+    Add: [-xc++, -std=c++20] # ensure every source file gets treated as a cxx file
